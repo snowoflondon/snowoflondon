@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi, I'm Brian 👋
+* 📖 Master of Science from the University of Toronto in bioinformatics & computational biology
+* 💻 Currently working as a computational scientist in drug discovery
+* 💡 Working on personal projects using R and `Shiny`
+* ✍🏻 Writing for my data science blog [here](https://brianjmpark.github.io/) 
+* ⚽️ Fan of the English Premier League and stats in sports
 
-<!--
-**snowoflondon/snowoflondon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Open Source Projects
 
-Here are some ideas to get you started:
+| Name      | Description | Tools     |
+| :---:        |    :----:  |        :---: |
+| `PL Visualizer`      | Real Time Data Visualization from the Premier League | `R`, `Shiny`, `rvest`   |
+| `CIcomputeR`      | Drug Synergy Analysis using Chou-Talalay Principle       | `R`, `Shiny`   |
+| `LL4R`      | Drug Dose Response Curve Visualization        | `R`, `Shiny`, `drc`   |
+| `everyday-r`      | Learning Data Science with R       | `R`, `Tidyverse`   |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+

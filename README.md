@@ -11,7 +11,7 @@
 | :---:        |    :----:  |        :---: |
 | `PL Visualizer`      | Real Time Data Visualization from the Premier League | `R`, `Shiny`, `rvest`   |
 | `CIcomputeR`      | Drug Synergy Analysis using Chou-Talalay Principle       | `R`, `Shiny`   |
-| `LL4R`      | Drug Dose Response Curve Visualization        | `R`, `Shiny`, `drc`   |
+| `LL4R`      | Drug Dose Response Curve Analysis & Visualization        | `R`, `Shiny`, `drc`   |
 | `everyday-r`      | Learning Data Science with R       | `R`, `Tidyverse`   |
 
 

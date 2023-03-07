@@ -14,4 +14,8 @@
 | `LL4R`      | Drug Dose Response Curve Analysis & Visualization        | `R`, `Shiny`, `drc`   |
 | `everyday-r`      | Learning Data Science with R       | `R`, `Tidyverse`, `Caret`, `Bookdown`   |
 
+#### Publications
+
+[Park, Brian J., et al. "Utilization of Cancer Cell Line Screening to Elucidate the Anticancer Activity and Biological Pathways Related to the Ruthenium-Based Therapeutic BOLD-100." Cancers 15.1 (2022): 28.](https://pubmed.ncbi.nlm.nih.gov/36612025/)
+
 

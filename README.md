@@ -14,7 +14,6 @@
 | `LL4R`      | Drug Dose Response Curve Analysis & Visualization        | `R`, `Shiny`, `drc`   |
 | `yyz-outbreaks` | Visualizing City of Toronto's Health Outbreaks      | `R`, `Shiny` |
 | `everyday-r`      | Learning Data Science with R       | `R`, `Tidyverse`, `Caret`, `Bookdown`   |
-| `Snow of London` | Data Science, ML, and Sports Blog      | `R`, `Python`, `TensorFlow`, `Scikit-Learn`, `Caret`|
 
 #### Publications
 

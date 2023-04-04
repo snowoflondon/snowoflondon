@@ -19,4 +19,9 @@
 
 [Park, Brian J., et al. "Utilization of Cancer Cell Line Screening to Elucidate the Anticancer Activity and Biological Pathways Related to the Ruthenium-Based Therapeutic BOLD-100." Cancers 15.1 (2022): 28.](https://pubmed.ncbi.nlm.nih.gov/36612025/)
 
+#### Recent Blog Posts
+* [Principles of singular value decomposition](https://brianjmpark.github.io/post/2023-03-31-principles-of-singular-value-decomposition-index/)
+* [Fundamentals of Kullback-Leibler divergence](https://brianjmpark.github.io/post/2022-11-10-fundamentals-of-kullback-leibler-divergence-index/)
+* [Language models and text generation using LSTMs](https://brianjmpark.github.io/post/2022-08-23-language-models-and-text-generation-using-lstms-index/)
+
 

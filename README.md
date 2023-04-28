@@ -1,6 +1,6 @@
 ### Hi, I'm Brian 👋
 * 📖 Master of Science from the University of Toronto in bioinformatics & computational biology
-* 💻 Currently working as a computational scientist in drug discovery
+* 💻 Currently working as a data scientist in drug discovery
 * 💡 Working on personal projects using R and `Shiny`
 * ✍🏻 Writing for my data science blog [here](https://brianjmpark.github.io/) 
 * ⚽️ Fan of the English Premier League and stats in sports

@@ -16,8 +16,8 @@
 
 #### Publications
 
-[Park, Brian J., et al. "Utilization of Cancer Cell Line Screening to Elucidate the Anticancer Activity and Biological Pathways Related to the Ruthenium-Based Therapeutic BOLD-100." Cancers 15.1 (2022): 28.](https://pubmed.ncbi.nlm.nih.gov/36612025/)
-[Nayeem, Nazia, et al. "Insights into Mechanisms and Promising Triple Negative Breast Cancer Therapeutic Potential for a Water-Soluble Ruthenium Compound." ACS Pharmacology & Translational Science (2024).](https://pubs.acs.org/doi/10.1021/acsptsci.4c00020)
+* [Park, Brian J., et al. "Utilization of Cancer Cell Line Screening to Elucidate the Anticancer Activity and Biological Pathways Related to the Ruthenium-Based Therapeutic BOLD-100." Cancers 15.1 (2022): 28.](https://pubmed.ncbi.nlm.nih.gov/36612025/)
+* [Nayeem, Nazia, et al. "Insights into Mechanisms and Promising Triple Negative Breast Cancer Therapeutic Potential for a Water-Soluble Ruthenium Compound." ACS Pharmacology & Translational Science (2024).](https://pubs.acs.org/doi/10.1021/acsptsci.4c00020)
 
 #### Recent Blog Posts
 * [Principles of singular value decomposition](https://brianjmpark.github.io/post/2023-03-31-principles-of-singular-value-decomposition-index/)

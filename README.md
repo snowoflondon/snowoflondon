@@ -1,8 +1,6 @@
 ### Hi, I'm Brian 👋 
 * 📖 Master of Science from the University of Toronto
-* 💻 Senior data scientist in biotech/pharma
-* 💡 Working on personal projects using R and Shiny
-* ✍🏻 Writing for my data science blog [here](https://brianjmpark.github.io/) 
+* 💻 Data Scientist in ML, AI
 * ⚽️ Fan of the Premier League and stats in sports
 
 #### Open Source Projects
